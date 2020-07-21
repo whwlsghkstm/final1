@@ -32,7 +32,6 @@
 				<div class="image"><img src="{{image}}"/></div>
 				<div class="title">{{title}}</div>
 				<div class="price">{{price}}</div>
-				<div class="content">{{content}}</div>
 			</div>
 		{{/each}}
 	</script>
